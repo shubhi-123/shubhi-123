@@ -28,41 +28,105 @@ Passionate about Machine Learning, Data Science, and Competitive Programming. I 
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/shubhi-narwaria" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+<table>
+  <tr align="center">
+    <td>
+      <a href="https://linkedin.com/in/shubhi-narwaria" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/><br>
+        LinkedIn
+      </a>
+    </td>
 
-<a href="https://kaggle.com/shubhinarwaria" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
-</a>
+    <td width="40"></td>
 
-<a href="https://www.codechef.com/users/shubhinarwaria" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />
-</a>
+    <td>
+      <a href="https://kaggle.com/shubhinarwaria" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40"/><br>
+        Kaggle
+      </a>
+    </td>
 
-<a href="https://www.leetcode.com/bg2bulvewq" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-</a>
+    <td width="40"></td>
 
-</p>
+    <td>
+      <a href="https://www.codechef.com/users/shubhinarwaria" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40"/><br>
+        CodeChef
+      </a>
+    </td>
+
+    <td width="40"></td>
+
+    <td>
+      <a href="https://www.leetcode.com/bg2bulvewq" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/><br>
+        LeetCode
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" alt="opencv" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-</p>
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/><br>
+      Python
+    </td>
+    <td width="30"></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br>
+      C++
+    </td>
+    <td width="30"></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/><br>
+      MySQL
+    </td>
+    <td width="30"></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/><br>
+      Pandas
+    </td>
+    <td width="30"></td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/><br>
+      Scikit-Learn
+    </td>
+  </tr>
+
+  <tr><td colspan="9"><br></td></tr>
+
+  <tr align="center">
+    <td>
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/><br>
+      Seaborn
+    </td>
+    <td></td>
+    <td>
+      <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" width="45" height="45"/><br>
+      OpenCV
+    </td>
+    <td></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45"/><br>
+      GCP
+    </td>
+    <td></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/><br>
+      Postman
+    </td>
+    <td></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="45" height="45"/><br>
+      Flask
+    </td>
+  </tr>
+</table>
 
 ---
 
