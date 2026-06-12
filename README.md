@@ -28,44 +28,10 @@ Passionate about Machine Learning, Data Science, and Competitive Programming. I 
 
 ## 🌐 Connect with Me
 
-<table>
-  <tr align="center">
-    <td>
-      <a href="https://linkedin.com/in/shubhi-narwaria" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/><br>
-        LinkedIn
-      </a>
-    </td>
-
-    <td width="40"></td>
-
-    <td>
-      <a href="https://kaggle.com/shubhinarwaria" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40"/><br>
-        Kaggle
-      </a>
-    </td>
-
-    <td width="40"></td>
-
-    <td>
-      <a href="https://www.codechef.com/users/shubhinarwaria" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40"/><br>
-        CodeChef
-      </a>
-    </td>
-
-    <td width="40"></td>
-
-    <td>
-      <a href="https://www.leetcode.com/bg2bulvewq" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/><br>
-        LeetCode
-      </a>
-    </td>
-  </tr>
-</table>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhi-narwaria)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shubhinarwaria)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shubhinarwaria)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bg2bulvewq)
 ---
 
 ## 🛠️ Languages and Tools
