@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhi Narwaria</h1>
-<h3 align="center">Pre-Final Year B.Tech Student @ IIIT Bhopal | Aspiring Machine Learning Engineer</h3>
+<h3 align="center">Pre-Final Year B.Tech Student @ IIIT Bhopal</h3>
 
 <p align="center">
 Passionate about Machine Learning, Data Science, and Competitive Programming. I enjoy building AI-powered solutions and solving real-world problems through technology.
@@ -10,7 +10,6 @@ Passionate about Machine Learning, Data Science, and Competitive Programming. I 
 ## 👩‍💻 About Me
 
 - 🎓 Pre-Final Year B.Tech Student at **IIIT Bhopal**
-- 🤖 Interested in **Machine Learning, Data Science, and Artificial Intelligence**
 - 💻 Solved **600+ coding problems** across various platforms
 - 🌱 Currently learning **ML and Data Structures**
 - 📫 Reach me at **shubhi.narwaria@gmail.com**
@@ -113,5 +112,5 @@ Passionate about Machine Learning, Data Science, and Competitive Programming. I 
 ---
 
 <p align="center">
-⭐ <i>Always learning, building, and exploring Machine Learning & AI.</i>
+⭐ <i>Always learning, building, and exploring.</i>
 </p>
